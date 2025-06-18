@@ -44,7 +44,7 @@ setColor(`rgb(${r},${g},${b})`)
             display: 'flex',
             justifyContent: 'center',
             alignItems:'center',
-            color:'#000',
+            color:'#fff',
         marginTop:'50px',
         fontSize:'60px',
       
